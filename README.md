@@ -1,6 +1,4 @@
-<<<<<<< HEAD
 # Book_a_Doctor
-=======
 
 # MERN Doctor 📝 Appointment App
 
@@ -178,7 +176,6 @@ To run this project, you will need to add the following environment variables to
 
 ---
 
-Made with ❤️ by Muazam
+Made with ❤️ by MIT
 
 </div>
->>>>>>> 94bbb36 (Initial Commit)
